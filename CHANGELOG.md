@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.3
+
+- Add backend url in environment
+
 ## v0.9.2
 
 - Add landing page
