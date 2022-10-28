@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.4
+
+- Add guards folder
+
 ## v0.9.3
 
 - Add backend url in environment

@@ -1,4 +1,4 @@
-# [skulljs] [0.9.3] angular
+# [skulljs] [0.9.4] angular
 
 Angular components of skulljs
 
