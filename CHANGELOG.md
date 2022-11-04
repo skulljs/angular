@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.6
+
+- Add http client module
+
 ## v0.9.5
 
 - Add class-validator
