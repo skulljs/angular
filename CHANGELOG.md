@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.5
+
+- Add class-validator
+
 ## v0.9.4
 
 - Add guards folder
