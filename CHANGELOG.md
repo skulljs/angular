@@ -3,6 +3,7 @@
 ## v0.9.6
 
 - Add http client module
+- Remove class-validator
 
 ## v0.9.5
 

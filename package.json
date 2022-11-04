@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "^14.2.8",
     "@angular/router": "^14.2.8",
     "@compodoc/compodoc": "^1.1.19",
-    "class-validator": "^0.13.2",
     "rxjs": "~7.5.0",
     "tslib": "^2.4.1",
     "uuid": "^9.0.0",
