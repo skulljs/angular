@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.0 - Release
+
+- Release of skulljs
+
 ## v0.9.7 - Fix base64 logo content type
 
 - Fix base64 logo content type
