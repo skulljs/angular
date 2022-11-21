@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.9.7 - Fix base64 logo content type
+
+- Fix base64 logo content type
+
 ## v0.9.6
 
 - Add http client module
