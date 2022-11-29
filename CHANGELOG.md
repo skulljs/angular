@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.0 - ESLint + Format
+
+- Added ESLint
+- Added "npm run format" with prettier
+
 ## v1.0.0 - Release
 
 - Release of skulljs

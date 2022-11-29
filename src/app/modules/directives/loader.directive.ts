@@ -11,7 +11,7 @@ export class LoaderDirective implements OnChanges {
   @Input() loaderWidth = '200px';
 
   el: ElementRef;
-  baseDisplay: string = '';
+  baseDisplay = '';
   loaderActive = false;
 
   uuid = uuidv4();
