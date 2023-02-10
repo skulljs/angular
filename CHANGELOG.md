@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.0 - Add Skulljs style
+
+- Added Skulljs style
+
 ## v1.1.0 - ESLint + Format
 
 - Added ESLint
