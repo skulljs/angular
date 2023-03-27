@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.0 - Add Skulljs's Angular libraries
+
+- Added Skulljs's Angular libraries
+
 ## v1.2.0 - Add Skulljs style
 
 - Added Skulljs style

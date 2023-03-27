@@ -1,4 +1,4 @@
-# [skulljs] [1.2.0] angular
+# [skulljs] [1.3.0] angular
 
 [![Depfu](https://badges.depfu.com/badges/0dafed9ebb87776774e0f1362c0d8fc4/status.svg)](https://depfu.com) [![Depfu](https://badges.depfu.com/badges/0dafed9ebb87776774e0f1362c0d8fc4/overview.svg)](https://depfu.com/github/skulljs/angular?project_id=36914) [![Depfu](https://badges.depfu.com/badges/0dafed9ebb87776774e0f1362c0d8fc4/count.svg)](https://depfu.com/github/skulljs/angular?project_id=36914)
 
