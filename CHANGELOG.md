@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.0 - Add IsAuthorizedGuard
+
+- Added IsAuthorizedGuard + exemple session service
+
 ## v1.3.0 - Add Skulljs's Angular libraries
 
 - Added Skulljs's Angular libraries
