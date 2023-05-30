@@ -1,14 +1,12 @@
 import { Injectable } from '@angular/core';
+import { Roles } from 'src/app/guards/IsAuthorized/roles';
 
 @Injectable({
   providedIn: 'root',
 })
 export class SessionService {
-  isLogged() {
-    return true;
-  }
-
-  isAdmin() {
-    return true;
+  // Replace with call to backend => return session role
+  getRole() {
+    return Roles.Admin;
   }
 }

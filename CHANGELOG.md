@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.0 - Rework IsAuthorizedGuard
+
+- Rework IsAuthorizedGuard
+
 ## v1.4.0 - Add IsAuthorizedGuard
 
 - Added IsAuthorizedGuard + exemple session service
