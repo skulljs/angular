@@ -29,9 +29,7 @@ async function validate(roles: Roles[], minimunRoleMode: boolean, fallbackRoute:
     isAuthorized = roles.some((role) => userRole == role);
   }
 
-  if (!isAuthorized) {
-    router.navigateByUrl(fallbackRoute);
-  }
+  if (!isAuthorized) router.navigateByUrl(fallbackRoute);
 
   return isAuthorized;
 }
