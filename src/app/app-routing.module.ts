@@ -5,7 +5,16 @@ import { Roles } from './guards/IsAuthorized/roles';
 
 const routes: Routes = [
   // ? Example of IsAuthorizedGuard usage
-  // { path: 'admin', component: AdminComponent, canActivate: [isAuthorizedGuard], data: { authorize: [Roles.Admin], minimunRoleMode: true } },
+  // {
+  //   path: 'admin',
+  //   component: AdminComponent,
+  //   canActivate: [isAuthorizedGuard],
+  //   data: {
+  //     authorize: [Roles.Admin],
+  //     minimunRoleMode: true,
+  //     fallbackRoute: '/auth',
+  //   },
+  // },
 ];
 
 @NgModule({
