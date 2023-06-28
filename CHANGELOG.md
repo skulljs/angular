@@ -1,5 +1,9 @@
 # Changelog
 
+## v16.0.0 - Sync Angular version
+
+- Sync Angular version
+
 ## v1.5.0 - Rework IsAuthorizedGuard
 
 - Rework IsAuthorizedGuard
