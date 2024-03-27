@@ -1,5 +1,10 @@
 # Changelog
 
+## v17.0.0 - Sync Angular version
+
+- Sync Angular version
+
+
 ## v16.0.0 - Sync Angular version
 
 - Sync Angular version
