@@ -1,7 +1,7 @@
 import { inject } from '@angular/core';
 import { ActivatedRouteSnapshot, Router } from '@angular/router';
 import { Roles } from './roles';
-import { SessionService } from 'src/app/services/session/session-service.service';
+import { SessionService } from '../../services/session/session-service.service';
 
 export const isAuthorizedGuard = (route: ActivatedRouteSnapshot) => {
   const roles: Roles[] = route.data['authorize'];

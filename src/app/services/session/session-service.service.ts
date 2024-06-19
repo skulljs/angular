@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Roles } from 'src/app/guards/IsAuthorized/roles';
+import { Roles } from '../../guards/IsAuthorized/roles';
 
 @Injectable({
   providedIn: 'root',
