@@ -1,5 +1,9 @@
 # Changelog
 
+## v19.0.0 - Sync Angular version
+
+- Sync Angular version
+
 ## v18.0.0 - Rebuild from scratch and sync Angular version
 
 - Rebuild from scratch
@@ -8,7 +12,6 @@
 ## v17.0.0 - Sync Angular version
 
 - Sync Angular version
-
 
 ## v16.0.0 - Sync Angular version
 
