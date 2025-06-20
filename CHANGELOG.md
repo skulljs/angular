@@ -1,5 +1,9 @@
 # Changelog
 
+## v20.0.0 - Sync Angular version
+
+- Sync Angular version
+
 ## v19.0.0 - Sync Angular version
 
 - Sync Angular version
