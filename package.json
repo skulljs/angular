@@ -41,7 +41,7 @@
     "@typescript-eslint/eslint-plugin": "8.62.1",
     "@typescript-eslint/parser": "8.62.1",
     "baseline-browser-mapping": "^2.10.43",
-    "eslint": "10.6.0",
+    "eslint": "10.7.0",
     "istanbul-lib-instrument": "^6.0.3",
     "jasmine-core": "~6.3.0",
     "karma": "~6.4.4",
