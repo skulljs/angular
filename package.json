@@ -40,7 +40,7 @@
     "@types/jasmine": "~6.0.0",
     "@typescript-eslint/eslint-plugin": "8.62.1",
     "@typescript-eslint/parser": "8.62.1",
-    "baseline-browser-mapping": "^2.10.43",
+    "baseline-browser-mapping": "^2.11.1",
     "eslint": "10.6.0",
     "istanbul-lib-instrument": "^6.0.3",
     "jasmine-core": "~6.3.0",
